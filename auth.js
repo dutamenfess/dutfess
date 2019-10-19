@@ -4,3 +4,4 @@ module.exports = {
    access_token: process.env.A_TOKEN,
    access_token_secret: process.env.A_SECRET,
    timeout_ms: 60*1000
+}
